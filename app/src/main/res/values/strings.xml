@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">传感器体验</string>
+
+    /*主页*/
+    <string name="textView">以下显示本机所有传感器</string>
+    <string name="title_Main">手机传感器体验专区O(∩_∩)O</string>
+    /*主页菜单文字*/
+    <string name="aboutTitle_mainMenu">关于该软件</string>
+    <string name="aboutText_mainMenu">\t 说实话这算我正经自己就做的第一个软件吧。。。先写这些以后再改</string>
+    <string name="exitTitle_mainMenu">退出</string>
+
+    /*选择活动页*/
+    <string name="title_ChooseAction">请在下面选择所进行的活动</string>
+</resources>
